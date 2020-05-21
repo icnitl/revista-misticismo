@@ -1,24 +1,42 @@
+body {
+    background-color: black;
+}
+
+
 .padre {
     background-color: darkviolet;
     height: 10rem;
 }
 
 .madre {
-    background-color: gainsboro;
+    background-color: black;
     height: 20rem;
 }
 
-.colorUno{
-    background-color: gray;
-    width: 5rem;   
+.navbar {
+    background-color: black;
 }
 
-.colorDos{
-    background-color: greenyellow;
+.card-title {
+    justify-content: center;
+}
+
+.container {
+    margin-top: 2rem;
+}
+
+.col-portada {
+    background-color: black;
+    width: max-content;
+}
+
+.col-dossier {
+    background-color: black;
+    width: max-content;
     
 }
 
-.colorTres{
-    background-color: blueviolet;
-    
+.col-partners{
+    background-color: black;
+    width: max-content;
 }
