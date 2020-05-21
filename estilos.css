@@ -21,6 +21,14 @@ body {
     justify-content: center;
 }
 
+.collapse {
+    font-size: 14px;
+}
+
+.form-inline {
+    justify-content: end;
+}
+
 .container {
     margin-top: 2rem;
 }
