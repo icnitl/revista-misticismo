@@ -17,6 +17,20 @@ body {
     background-color: black;
 }
 
+.texto-video {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.numero-dossier {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+}
+
+
 .card-title {
     justify-content: center;
 }
@@ -28,6 +42,11 @@ body {
 .form-inline {
     justify-content: end;
 }
+
+.col-numero-dossier {
+    justify-content: center;
+}
+
 
 .container {
     margin-top: 2rem;
@@ -47,4 +66,8 @@ body {
 .col-partners{
     background-color: black;
     width: max-content;
+}
+
+.nav {
+
 }
